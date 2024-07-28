@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **diegocanales/diegocanales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Diego
+
+I am a Telematics Civil Engineer, passionate about machine learning systems.
+
+- 🔭 I’m currently working at [Lemu](le.mu) as MLOps Engineer. In my free time, I work on my personal projects.
+- 💬 Ask me about Python, Docker, MLOps and Data Engineering.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/diegocanalesv/)! I'm always open to interesting conversations and collaboration.
+- ⚡ Fun fact: Soon, there will be a satellite orbiting the planet signed by me.
