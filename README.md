@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Diego
+## Hi, I'm Diego 👋
 
 I am a Telematics Civil Engineer, passionate about machine learning systems.
 
