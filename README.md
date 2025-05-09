@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a Computer Engineer, passionate about machine learning systems.
 
-- 🔭 I’m currently working at [Lemu](https://le.mu/) as MLOps Engineer. In my free time, I work on my personal projects.
+- 🔭 I’m currently looking for job opportunities as an MLOps Engineer. In my free time, I work on my personal projects.
 - 💬 My interests are Python, Docker, MLOps and Data Engineering.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/diegocanalesv/)! I'm always open to interesting conversations and collaboration.
-- 🛰️ Fun fact: There is a satellite orbiting the planet signed by me.
+- 🛰️ Fun fact: There is a [satellite](https://www.orbtrack.org/#/?satName=LEMU%20NGE) orbiting the planet signed by me.
