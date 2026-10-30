@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Diego 👋
 
-I am a Computer Engineer, passionate about machine learning systems.
+I’m a Software Engineer passionate about machine learning systems.
 
 - 🔭 I’m currently looking for job opportunities as an MLOps Engineer. In my free time, I work on my personal projects.
 - 💬 My interests are Python, Docker, MLOps and Data Engineering.
